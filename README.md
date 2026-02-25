@@ -68,8 +68,5 @@ print(norm_of_matrix)
 
 <img width="1018" height="791" alt="Screenshot 2026-02-25 093716" src="https://github.com/user-attachments/assets/223866d0-ba4a-4600-ac8c-938c6e40e206" />
 
-
-## Result:
-Thus the program to find the 1-norm, 2-norm and infinity norm of the matrix and display the result in two decimal places is executed successfully.
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
